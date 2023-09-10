@@ -12,8 +12,6 @@ Welcome to the "Numerical Algorithms" repository, which serves as the primary so
 
 - **Past Exams**: A collection of previous exams to help you prepare for the midterm and final exams. They come with solutions to facilitate self-study and to understand the kind of questions that can be expected in the exams.
 
-- **.DS_Store**: This is a system file used by macOS to store custom attributes of a folder.
-
 - **README.md**: The file you're currently reading. It provides an overview of the repository and explains the purpose and content of each file and folder.
 
 - **final.pdf** and **midterm.pdf**: These PDF files contain the question papers for the final and midterm exams during Spring 21, providing a clear expectation of the exam pattern and the type of questions that are generally asked.
