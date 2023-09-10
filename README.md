@@ -12,13 +12,11 @@ Welcome to the "Numerical Algorithms" repository, which serves as the primary so
 
 - **Past Exams**: A collection of previous exams to help you prepare for the midterm and final exams. They come with solutions to facilitate self-study and to understand the kind of questions that can be expected in the exams.
 
-- **README.md**: The file you're currently reading. It provides an overview of the repository and explains the purpose and content of each file and folder.
+- **Final21.pdf** and **Midterm21.pdf**: These PDF files contain the question papers for the final and midterm exams during Spring 21, providing a clear expectation of the exam pattern and the type of questions that are generally asked.
 
-- **final.pdf** and **midterm.pdf**: These PDF files contain the question papers for the final and midterm exams during Spring 21, providing a clear expectation of the exam pattern and the type of questions that are generally asked.
+- **Final21_Solution.pdf** and **Midterm21_Solution.pdf**: Solution manuals for the final and midterm exams, offering detailed solutions to each question, serving as an excellent resource for understanding and revision.
 
-- **final_sol.pdf** and **midterm_sol.pdf**: Solution manuals for the final and midterm exams, offering detailed solutions to each question, serving as an excellent resource for understanding and revision.
-
-- **Stability_Test.m**: A MATLAB script file developed to demonstrate the stability of various numerical algorithms through a series of tests.
+- **Stability_Testing.m**: A MATLAB script file developed to demonstrate the stability of various numerical algorithms through a series of tests.
 
 ## 🛠️ Installation and Usage
 
